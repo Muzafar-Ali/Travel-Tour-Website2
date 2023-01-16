@@ -175,3 +175,17 @@ header .trip_box .search_box input[type="button"]{
 header .trip_box .search_box input[type="button"]:hover{
     background: gray;
 }
+
+header .trip_box .travel_box{
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    top: 40px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    box-shadow: 0px 20px -10px rgb(165, 165, 165);
+}
+
+header .trip_box .travel_box{
